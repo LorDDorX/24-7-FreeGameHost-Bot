@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survive470.mcsh.io",
+    "ip": "survimcsh.io",
     "port": 25565,
     "version": "1.20.1",
     "try-creative": false
